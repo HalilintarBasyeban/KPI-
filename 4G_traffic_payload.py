@@ -1,6 +1,5 @@
 import pandas as pd
 import patoolib
-import MySQLdb
 import os
 import shutil
 
